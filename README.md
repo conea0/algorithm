@@ -19,3 +19,18 @@
 - 動的計画法
 - 考察テクニック
 - 以降は典型アルゴリズム問題を解いていく
+
+## Contributing
+
+### 資料作成
+
+[syuya2036](https://github.com/syuya2036)
+
+### サンプルコード作成
+
+- Rust: [syuya2036]
+- Python
+- Go
+- C++
+- Kotlin
+- JavaScript
