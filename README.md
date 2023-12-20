@@ -9,6 +9,10 @@
 - 第一回: [アルゴリズムとは] 資料なし
 - 第二回: [計算量とは] 資料なし
 - 第三回: [二分探索](./docs/1.二分探索.md)
+  - 二分探索を実装
+  - 答えを二分探索
+  - しゃくとり法
+  - 半分全列挙
 
 ##  これからの予定
 
@@ -29,8 +33,12 @@
 ### サンプルコード作成
 
 - Rust: [syuya2036](https://github.com/syuya2036)
-- Python
+- Python: [mahiro-tech](https://github.com/mahiro-tech)
 - Go: [teke4869](https://github.com/teke4869)
 - C++: [iwbchi](https://github.com/iwbchi)
 - Kotlin: [so0352](https://github.com/so0352)
-- JavaScript
+
+## 参考文献
+
+- [競技プログラミングの鉄則](https://amzn.asia/d/fsYlcWN)
+- [問題解決力を鍛える!アルゴリズムとデータ構造](https://www.amazon.co.jp/dp/4065128447)
