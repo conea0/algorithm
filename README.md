@@ -28,7 +28,7 @@
 
 ### サンプルコード作成
 
-- Rust: [syuya2036]
+- Rust: [syuya2036](https://github.com/syuya2036)
 - Python
 - Go: [teke4869](https://github.com/teke4869)
 - C++: [iwbchi](https://github.com/iwbchi)
