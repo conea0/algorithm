@@ -30,7 +30,7 @@
 
 - Rust: [syuya2036]
 - Python
-- Go
-- C++
-- Kotlin
+- Go: [teke4869](https://github.com/teke4869)
+- C++: [iwbchi](https://github.com/iwbchi)
+- Kotlin: [so0352](https://github.com/so0352)
 - JavaScript
