@@ -24,6 +24,20 @@
 - 考察テクニック
 - 以降は典型アルゴリズム問題を解いていく
 
+## Contributing
+
+### 資料作成
+
+[syuya2036](https://github.com/syuya2036)
+
+### サンプルコード作成
+
+- Rust: [syuya2036](https://github.com/syuya2036)
+- Python: [mahiro-tech](https://github.com/mahiro-tech)
+- Go: [teke4869](https://github.com/teke4869)
+- C++: [iwbchi](https://github.com/iwbchi)
+- Kotlin: [so0352](https://github.com/so0352)
+
 ## 参考文献
 
 - [競技プログラミングの鉄則](https://amzn.asia/d/fsYlcWN)
